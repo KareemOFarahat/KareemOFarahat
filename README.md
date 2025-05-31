@@ -1,22 +1,16 @@
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
-</div>
 
----
-
-<h1 align="center">Hey, I'm Kareem Farahat 👋</h1>
+<h1 align="center">Hey, I'm Kareem Farahat </h1>
 <p align="center">
   <strong>Web Developer | Cybersecurity Enthusiast | Content Creator</strong>
 </p>
 
 <p align="center">
-  💻 Passionate about Web Development & Cybersecurity<br>
-  🎥 Sharing knowledge on <a href="https://www.youtube.com/@FarahatSchool">YouTube</a><br>
-  🔐 Currently exploring Cybersecurity career paths<br>
-  🐧 Linux Lover (Manjaro, Fedora, Pop!_OS)
+   Passionate about Web Development & Cybersecurity<br>
+   Sharing knowledge on <a href="https://www.youtube.com/@FarahatSchool">YouTube</a><br>
+   Currently exploring Cybersecurity career paths<br>
+   Linux Lover (Manjaro, Fedora, Pop!_OS)
 </p>
 
----
 
 ### 📌 Connect with Me
 
