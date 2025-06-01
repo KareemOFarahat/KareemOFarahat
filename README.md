@@ -55,7 +55,6 @@ class About extends Me {
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
