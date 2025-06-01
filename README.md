@@ -1,16 +1,14 @@
-
-<h1 align="center">Hey, I'm Kareem Farahat </h1>
+<h1 align="center">Hey, I'm Kareem Farahat</h1>
 <p align="center">
-  <strong>Web Developer | Cybersecurity Enthusiast | Content Creator</strong>
+  <strong>Full-Stack Web Developer | Cybersecurity Enthusiast | Content Creator</strong>
 </p>
 
 <p align="center">
-   Passionate about Web Development & Cybersecurity<br>
-   Sharing knowledge on <a href="https://www.youtube.com/@FarahatSchool">YouTube</a><br>
-   Currently exploring Cybersecurity career paths<br>
-   Linux Lover (Manjaro, Fedora, Pop!_OS)
+  Passionate about building secure web applications and exploring offensive security.<br>
+  Sharing knowledge on <a href="https://www.youtube.com/@FarahatSchool">YouTube</a><br>
+  Currently diving deeper into Red Teaming & Bug Bounties<br>
+  Linux Lover | Open Source Supporter
 </p>
-
 
 ### 📌 Connect with Me
 
@@ -22,35 +20,59 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tech Stack & Tools
 
 ```dart
 class About extends Me {
   const myTools = {
-    "ProgrammingLanguages" : {"Dart", "Go", "Python", "JavaScript", "Java", "C++"},
-    "OtherLanguages" : {"HTML", "CSS", "Bash", "Json", "Markdown"},
-    "Database" : {"Firebase", "SQLite"},
-    "Editors" : {"VSCode", "Xcode", "Sublime", "Neovim"},
-    "Platforms" : {"Manjaro", "Fedora", "Pop!_OS", "GNU/Linux", "Windows"},
-    "OtherTools" : {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"}
+    "Languages" : {
+      "Dart", "JavaScript", "Python", "Go", "Java", "C++", "Bash"
+    },
+    "Frontend" : {
+      "HTML", "CSS", "TailwindCSS", "Bootstrap", "Flutter Web", "React"
+    },
+    "Backend" : {
+      "Node.js", "Express", "Firebase", "SQLite", "MongoDB", "MySQL"
+    },
+    "Cybersecurity" : {
+      "Wireshark", "Burp Suite", "Nmap", "Metasploit", "Nikto", "John the Ripper"
+    },
+    "Dev Tools" : {
+      "Git", "Docker", "Postman", "Insomnia", "Zsh", "tmux", "SSH"
+    },
+    "Editors/IDEs" : {
+      "VSCode", "Neovim", "Sublime Text", "Android Studio", "Xcode"
+    },
+    "Platforms" : {
+      "Manjaro", "Fedora", "Pop!_OS", "Windows", "Kali Linux", "Parrot OS"
+    },
+    "Design & Media" : {
+      "Figma", "Photoshop", "GIMP", "Lightroom"
+    }
   };
 }
 ```
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api?username=KareemoFarahat&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemoFarahat&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=KareemoFarahat&theme=tokyonight" width="99%" />
 </p>
 
-<details>
-  <summary>📈 More Stats</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
+---
+
+## 🌟 Highlights
+
+- 🔐 Cybersecurity Enthusiast – Red Team | Bug Bounty | Ethical Hacking
+- 🖥️ Linux Lover – Manjaro, Fedora, Pop!_OS (Daily Driver)
+- 🧠 Continuous Learner – Focused on secure coding & system internals
+- 📹 Content Creator – Teaching tech & security on [YouTube](https://www.youtube.com/@FarahatSchool)
+- 🛠️ Building Tools & Scripts to solve real-world problems
+- 🌍 Open Source Contributor & GitHub Explorer
 
 ---
 
