@@ -57,11 +57,17 @@ class About extends Me {
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KareemoFarahat&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemoFarahat&layout=compact&theme=tokyonight" width="48%">
-  <img src="https://streak-stats.demolab.com/?user=KareemoFarahat&theme=tokyonight" width="99%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KareemoFarahat&theme=tokyonight" width="98%">
+</p>
+
 
 ---
 
