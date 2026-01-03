@@ -11,19 +11,19 @@ It’s about **mindset, threat modeling, and challenging what everyone assumes i
 
 ---
 
-## 🔴 What I Focus On
+##  What I Focus On
 
-* 🛡️ **Offensive Cybersecurity & Penetration Testing**
-* 🎯 **Red Team Mindset & Attack Simulations**
-* 🧠 **Threat Modeling & Assumption Breaking**
-* 🔐 **Secure‑by‑Design System Architecture**
-* 🚀 **Building Technology‑Driven Startups**
+*  **Offensive Cybersecurity & Penetration Testing**
+*  **Red Team Mindset & Attack Simulations**
+*  **Threat Modeling & Assumption Breaking**
+*  **Secure‑by‑Design System Architecture**
+*  **Building Technology‑Driven Startups**
 
 ---
 
-## 🏗️ Current Work
+##  Current Work
 
-### 🧬 Farahat Medical (Founder)
+###  Farahat Medical (Founder)
 
 Building medical technology with **security embedded from day one**, not added as an afterthought.
 
@@ -33,7 +33,7 @@ Focus areas:
 * Practical, real‑world security controls
 * Reducing attack surface in sensitive environments
 
-### 🛠️ Cybersecurity & Engineering
+###  Cybersecurity & Engineering
 
 * Studying attacker behavior and real exploitation paths
 * Breaking systems to understand how to build them better
@@ -41,7 +41,7 @@ Focus areas:
 
 ---
 
-## 🧪 Interests
+##  Interests
 
 * Offensive security research
 * Red teaming & adversarial thinking
@@ -50,10 +50,9 @@ Focus areas:
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/kareemofarahat/](https://www.linkedin.com/in/kareemofarahat/)
-* 📧 **Email:** [kareemofarahat@gmail.com](mailto:kareemofarahat@gmail.com)
+*  **LinkedIn:** [https://www.linkedin.com/in/kareemofarahat/](https://www.linkedin.com/in/kareemofarahat/)
 
 ---
 
