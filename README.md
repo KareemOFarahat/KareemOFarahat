@@ -1,6 +1,6 @@
 # Hi, I'm Kareem Osama Farahat
 
-🎓 **Computer Engineering Graduate** | 🛡️ **Offensive Cybersecurity Engineer** | 🚀 **Founder – Farahat Medical**
+**Computer Engineering Graduate** | **Offensive Cybersecurity Engineer** | **Founder – Farahat Medical**
 
 I work at the **intersection of building systems and breaking them**.
 
