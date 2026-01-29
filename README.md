@@ -1,62 +1,58 @@
-# Hi, I'm Kareem Osama Farahat
+## Hi, I'm Kareem Osama Farahat
 
-**Computer Engineering Graduate** | **Offensive Cybersecurity Engineer** | **Founder – Farahat Medical**
+Offensive Security Engineer with a Red Team mindset.
 
-I work at the **intersection of building systems and breaking them**.
+I focus on understanding how real attackers think, where system assumptions fail, and how small design flaws escalate into serious security risks.
 
-My focus in offensive security is understanding how attackers think, where assumptions fail, and how small weaknesses turn into real‑world security risks.
-
-I believe cybersecurity is not about tools or checklists.
-It’s about **mindset, threat modeling, and challenging what everyone assumes is “secure enough.”**
+My approach to cybersecurity is not tool-driven or checklist-based.
+I analyze systems from an attacker’s perspective, map trust boundaries, break assumptions, and study real exploitation paths — especially those caused by weak architecture and flawed design decisions.
 
 ---
 
-##  What I Focus On
+## What I Work On
 
-*  **Offensive Cybersecurity & Penetration Testing**
-*  **Red Team Mindset & Attack Simulations**
-*  **Threat Modeling & Assumption Breaking**
-*  **Secure‑by‑Design System Architecture**
-*  **Building Technology‑Driven Startups**
-
----
-
-##  Current Work
-
-###  Farahat Medical (Founder)
-
-Building medical technology with **security embedded from day one**, not added as an afterthought.
-
-Focus areas:
-
-* Secure system architecture
-* Practical, real‑world security controls
-* Reducing attack surface in sensitive environments
-
-###  Cybersecurity & Engineering
-
-* Studying attacker behavior and real exploitation paths
-* Breaking systems to understand how to build them better
-* Exploring how minor design flaws escalate into critical risks
+- Offensive security & penetration testing
+- Red Team thinking and attack simulation
+- Threat modeling and assumption analysis
+- Exploiting authentication, authorization, and logic flaws
+- Studying how secure-looking systems fail in real-world scenarios
 
 ---
 
-##  Interests
+## How I Approach Security
 
-* Offensive security research
-* Red teaming & adversarial thinking
-* Secure infrastructure & backend systems
-* Startup engineering & system design
+I don’t start with tools.
+I start with questions:
+
+- What does this system assume is “safe”?
+- Where is trust implicit instead of enforced?
+- What happens if a single component fails?
+- How can an attacker chain small weaknesses into full compromise?
+
+I break systems to understand how to build them better.
 
 ---
 
-##  Connect With Me
+## Areas of Interest
 
-*  **LinkedIn:** [https://www.linkedin.com/in/kareemofarahat/](https://www.linkedin.com/in/kareemofarahat/)
+- Offensive security research
+- Red team operations & adversarial thinking
+- Secure system architecture
+- Backend systems & infrastructure security
+- Real-world exploitation techniques
 
 ---
 
-> "Security isn’t about making systems impossible to break —
-> it’s about knowing **how they break first**."
+## Current Focus
 
-⭐ If you find my work interesting, feel free to follow or star my repositories.
+- Building intentionally vulnerable systems to study exploitation paths
+- Writing attack-focused security writeups
+- Developing small offensive tools for recon and abuse scenarios
+- Improving my ability to think and operate like a real attacker
+
+---
+
+> "Security isn’t about making systems impossible to break —  
+> it’s about understanding how they break first."
+
+⭐ If you find my work useful or interesting, feel free to explore or star my repositories.
